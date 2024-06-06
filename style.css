@@ -1,0 +1,20 @@
+body {
+    background-color: #FF7657;
+}
+
+.container-sesion{
+    height: 90vh;
+}
+
+.container-sesion-bg{
+    background-color: rgba(248, 249, 250, 0.5);
+}
+
+.facebook{
+    height: 2.5rem;
+}
+
+.logo{
+    border-radius: 50%;
+    height: 8rem;
+}
