@@ -3,7 +3,7 @@ body {
 }
 
 .container-sesion{
-    height: 90vh;
+    height: 85vh;
 }
 
 .container-sesion-bg{
@@ -17,4 +17,8 @@ body {
 .logo{
     border-radius: 50%;
     height: 8rem;
+}
+
+.container-logo{
+    margin-top: 6rem;
 }
