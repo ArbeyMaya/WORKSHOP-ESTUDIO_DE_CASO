@@ -1,0 +1,49 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-container{
+    width: 23.71rem;
+    background-color: #FF7657;
+}
+
+.nombre-usuario{
+    font-size: 30px;
+}
+.div-container{
+    height: 49rem;
+
+}
+
+.img-usuario{
+    width: 6rem;
+}
+
+.container-1{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.padding-nav{
+    padding-left: 0;
+}
+
+li{
+    font-size: 20px;
+}
+
+.tamaño-li{
+    background-color: white;
+    width: 310px;
+    border-radius: 10px;
+}
+
+.form-tamaño{
+    width: 310;
+}
+
+.segundo-navbar{
+    width: 88rem;
+}
